@@ -38,3 +38,6 @@ find method (array.find(callback))
 map method (array.map(callback))
 includes method (array.includes(item))
 join method (array.join(glue))
+
+Object Arrarys
+Arrow Function
