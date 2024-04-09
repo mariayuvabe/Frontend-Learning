@@ -7,6 +7,7 @@ Conversion to upper case (.toUpperCase())
 Conversion to lower case (.toLowerCase())
 Accessing characters using square brackets [index]
 Substring extraction using string.substring(indexStart, indexEnd)
+
 Numbers:
 
 Conversion from number to string (value.toString())
