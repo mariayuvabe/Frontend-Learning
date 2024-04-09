@@ -19,12 +19,14 @@ Declaration with let or const
 Use let for re-assignable variables
 Use const for non-reassignable variables
 var is from old JavaScript versions and can be converted to let or const
+
 Conditions:
 
 if condition syntax
 else keyword for alternative code
 Triple equals (===) for value comparison
 Ternary operator (condition ? expressionWhenTrue : expressionWhenFalse)
+
 Arrays:
 
 Declaration (const array = [elements])
